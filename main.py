@@ -14,3 +14,10 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+"""Yra duotas listas, jame yra žodžiai. Parašyti algortimą, kuris atrinktų patį ilgiausią besikartojančių žodžių fragmenta. Pvz, jei 
+[‚namas‘, ‚namelis‘, ‚nameliukas‘] -> „nam“ 
+
+[morkytė, molas, morka] - > mo 
+
+[namas, balkonas, mama] - > „“ tuscias stringas. 
+"""
