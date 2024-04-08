@@ -10,5 +10,4 @@ for i in range(10):
     print(skaiciai)
 suma=sum(skaiciai)
 print(suma)
-vidurkis = suma/len(skaiciai)
-print(vidurkis)
+vidurkis
